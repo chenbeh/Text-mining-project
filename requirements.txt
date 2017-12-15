@@ -18,6 +18,7 @@ https://repo.continuum.io/pkgs/free/osx-64/gensim-2.3.0-np113py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/html5lib-0.999999999-py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/icu-58.1-1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/idna-2.5-py36_0.tar.bz2
+https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipykernel-4.6.1-py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipython-6.2.0-py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/ipython_genutils-0.2.0-py36_0.tar.bz2
