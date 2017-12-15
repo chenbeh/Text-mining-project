@@ -38,7 +38,6 @@ https://conda.anaconda.org/conda-forge/osx-64/mistune-0.7.4-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/mkl-2017.0.3-0.tar.bz2
 https://conda.anaconda.org/conda-forge/noarch/nbconvert-5.3.1-py_1.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/nbformat-4.4.0-py36_0.tar.bz2
-https://conda.anaconda.org/conda-forge/osx-64/ncurses-5.9-10.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/nltk-3.2.4-py36_0.tar.bz2
 https://conda.anaconda.org/conda-forge/osx-64/notebook-5.1.0-py36_0.tar.bz2
 https://repo.continuum.io/pkgs/free/osx-64/numpy-1.13.1-py36_0.tar.bz2
