@@ -3,3 +3,5 @@
 conda create -n textminingprojectenv python=3.6 anaconda
 source activate textminingprojectenv
 source deactivate
+
+You must execute IPython.sh in order to filter the commits.
