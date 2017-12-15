@@ -7,5 +7,3 @@ conda create --name text_mining_project --file requirements.txt
 To set up the filters for the jupyter notebook the following shell script needs to be run
 ./set_ipynb_filter.sh
 
-tester
-
